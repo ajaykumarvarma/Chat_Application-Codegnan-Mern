@@ -1,4 +1,4 @@
-# Chatify-MERN
+# Chatter Up -MERN
 
 > Chat Application with MERN
 
